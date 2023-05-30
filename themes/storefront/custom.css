@@ -1,0 +1,58 @@
+a{
+    text-decoration: none !important;
+}
+.mark, mark {
+    background-color: #fff;
+}
+body{
+    color: #4a4a4a;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.site-header {
+    height: 115px !important;
+}
+.col-full {
+    max-width: 72.498938em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 2.617924em;
+    box-sizing: content-box;
+}
+#content{
+    background-color: #FFFFFF;
+}
+.page-template-template-homepage:not(.has-post-thumbnail) .site-main {
+    padding-top: 1.235801em !important;
+}
+.button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+    background-color: #6E6D70;
+    border-color: #EEEEE8;
+    color: #ffff;
+    border-radius: 5px;
+}
+.widget_product_search form:not(.wp-block-search) input[type=search] {
+    padding-left: 2.617924em;
+    border-radius: 10px;
+    color: black;
+    background: #D6E8DB;
+}
+.secondary-navigation .menu a {
+    padding: 1em 0.875em;
+    /* color: #737781; */
+    font-weight: 400;
+    /* background-color: #C1D0B5; */
+    border-radius: 5px;
+    background-color: #D6E8DB;
+    height: 50px;
+}
+.main-navigation ul li, .secondary-navigation ul li {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    font-family: UTM-Avo, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    /* color: red; */
+}
